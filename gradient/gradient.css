@@ -1,0 +1,27 @@
+[class^=box]{
+	width: 200px;
+	height: 200px;
+	margin-right: 10px;
+	float: left;
+}
+/*　線形グラデーション*/
+.box1{
+	background-image: -webkit-linear-gradient(#fff, #f00);
+    background-image: -o-linear-gradient(#fff, #f00);
+    background-image: linear-gradient(#fff, #f00);
+}
+/*　円形グラデーション*/
+.box2{
+	background-image: -webkit-linear-gradient(yellow, cyan);
+	border-image: -webkit-linear-gradient(#fff, #f00);
+	border-image: -o-linear-gradient(#fff, #f00);
+	
+
+}
+.box3{
+	background: #752201; /* Old browsers */
+background: -webkit-linear-gradient(#752201 21%, #752201 21%, #f0b7a1 38%, #f0b7a1 38%, #752201 57%, #896c61 81%, #bc9a8d 100%);
+background: -o-linear-gradient(#752201 21%, #752201 21%, #f0b7a1 38%, #f0b7a1 38%, #752201 57%, #896c61 81%, #bc9a8d 100%);
+background: linear-gradient(#752201 21%, #752201 21%, #f0b7a1 38%, #f0b7a1 38%, #752201 57%, #896c61 81%, #bc9a8d 100%); /* FF3.6+ */ /* Chrome,Safari4+ */ /* Chrome10+,Safari5.1+ */ /* Opera 11.10+ */ /* IE10+ */ /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#752201', endColorstr='#bc9a8d',GradientType=0 ); /* IE6-9 */
+}

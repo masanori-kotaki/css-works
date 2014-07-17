@@ -1,0 +1,23 @@
+[class^=box]{
+	width: 200px;
+	height: 200px;
+	margin-right: 10px;
+	float:left;
+}
+/* カラーネームでの色指定*/
+.box1{
+	background-color: red;
+}
+/* opacityで指定 */
+.box2{
+    background-color:red;
+    opacity: 0.5;
+}
+/* RGB（透明度なし）の色指定 */
+.box3 { 
+     background-color: rgb(255, 0, 0);
+} 
+/* RGBA（透明度入り）の色指定 */
+.box4 { 
+     background-color: rgba(255, 0, 0, 0.5);
+}

@@ -1,0 +1,23 @@
+p{
+	margin-bottom: 10px;
+}
+
+.font1{
+	font-family: serif;
+}
+
+.font2{
+	font-variant: small-caps;
+}
+
+.font3{
+	font-variant: small-caps;
+}
+
+.font3{
+	font-size: xx-large;
+}
+
+.font4{
+	line-height: 300%;
+}

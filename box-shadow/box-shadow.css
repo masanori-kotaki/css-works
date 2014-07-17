@@ -1,0 +1,12 @@
+[class^=box]{
+	width: 200px;
+	height: 200px;
+	margin-right: 10px
+	float:left;
+	background-color: cyan;
+}
+/*box-shadow */
+.box{
+	--webkit-box-shadow: 5px 10px 15px gray;
+	box-shadow: 5px 10px 15px gray;
+}

@@ -1,0 +1,19 @@
+[class^=box]{
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.box1{
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+}
+.box2{
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-position: 50px 50px;
+}
+.box3{
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-position: -50px -50px;
+}
