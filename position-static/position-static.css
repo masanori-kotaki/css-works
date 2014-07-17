@@ -1,0 +1,13 @@
+#boxA{
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: blue;
+}
+
+#boxB{
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: green;
+}

@@ -1,0 +1,19 @@
+header{
+	background: lightblue;
+	width: 200px;
+	height: 100px;
+
+}
+
+article{
+	background: lightgreen;
+	width: 200px;
+	height: 100px;
+}
+
+footer{
+	background: lightgreen;
+	width: 200px;
+	height: 100px;
+}
+

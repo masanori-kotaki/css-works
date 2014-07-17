@@ -1,0 +1,22 @@
+header{
+    background: lightyellow;
+    width: 100%;
+}
+
+#main {
+    float: left;
+    background: lightpink;
+    width: 80%;
+}
+
+#side {
+    float: right;
+    background: lightblue;
+    width: 20%;
+}
+
+footer {
+    clear: both;
+    background: lightgreen;
+    width: 100%;
+}

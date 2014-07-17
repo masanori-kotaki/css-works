@@ -1,0 +1,15 @@
+#boxA{
+	potion: relative;
+	witdh: 200px;
+	height: 200px;
+	backgroud: blue;
+	top: 100px;
+	left: 100px;
+}
+
+#boxB{
+	 position: static;
+	 witdh: 200px;
+	 height: 200px;
+	 background: green;
+}
