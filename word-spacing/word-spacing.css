@@ -1,0 +1,13 @@
+[class^=ws]{
+  width:200px;
+  background:lightblue; 
+}
+p.ws1 {
+  word-spacing: 10px;
+}
+p.ws2 {
+  word-spacing: 20px;
+}
+p.ws3 {
+  word-spacing: -5px;
+}

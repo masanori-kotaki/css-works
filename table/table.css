@@ -1,0 +1,18 @@
+[class^=sample] th,[class^=sample] td{
+	padding: 10px;
+	border: 1px solid #666;
+}
+
+.sample1{
+	border-collapse: collapse;
+}
+
+.sample2{
+	border-collapse: separate;
+}
+
+.sample3{
+	border-collapse: separate;
+	border-spacing: 10px;
+	empty-cells: hide;
+}

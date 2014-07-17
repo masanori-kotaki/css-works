@@ -1,0 +1,10 @@
+[class^=ts]{
+  	width:400px;
+  	background:lightcyan; 
+}
+p.ts1 {
+  	text-shadow: 3px 3px 3px gray;
+}
+p.ts2 {
+  	text-shadow: 10px 10px 0px #DDD;
+}

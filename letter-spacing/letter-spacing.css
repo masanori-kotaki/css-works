@@ -1,0 +1,13 @@
+[class^=ls]{
+  width:200px;
+  background:lightblue; 
+}
+p.ls1 {
+  letter-spacing: 10px;
+}
+p.ls2 {
+  letter-spacing: 20px;
+}
+p.ls3 {
+  letter-spacing: -5px;
+}

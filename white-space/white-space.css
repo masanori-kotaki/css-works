@@ -1,0 +1,15 @@
+[class^=ws]{
+	width:200px;
+	background: lightblue;
+}
+p.ws1{
+	white-space: normal;
+
+}
+p.ws2{
+	white-space: pre;
+
+}
+p.ws3 {
+	white-space: nowrap;
+}

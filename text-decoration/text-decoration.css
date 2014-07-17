@@ -1,0 +1,13 @@
+[class^=td]{
+  width:400px;
+  background:lightcyan; 
+}
+p.td1 {
+  text-decoration: underline;
+}
+p.td2 {
+  text-decoration: overline;
+}
+p.td3 {
+  text-decoration: line-through;
+}
